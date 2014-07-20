@@ -38,7 +38,6 @@
 
                 <#else>
                 <li><a href="/">Root</a></li>
-                <li><a href="/monitor">Monitor</a></li>
                 </#if> 
 
             </ul>
