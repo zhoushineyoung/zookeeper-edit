@@ -18,7 +18,7 @@ Setup
 Login Info
 ==============
 username: admin, password: manager (Admin privileges, CRUD operations supported)
-username: zkedit, pwd: zkedit (Readonly privileges, Read operations supported only)
+username: zkedit, password: zkedit (Readonly privileges, Read operations supported only)
 
 And you can change this in the config.properties
 
