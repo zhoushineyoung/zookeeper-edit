@@ -175,7 +175,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.deem.zkui.Main</mainClass>
+							<mainClass>com.martin.zkedit.ZKEditUIMain</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

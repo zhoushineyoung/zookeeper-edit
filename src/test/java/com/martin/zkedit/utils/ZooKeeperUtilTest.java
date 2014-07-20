@@ -13,7 +13,7 @@
  * SOFTWARE.
  *
  */
-package com.deem.zkui.utils;
+package com.martin.zkedit.utils;
 
 import java.io.IOException;
 import java.util.Arrays;

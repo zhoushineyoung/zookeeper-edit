@@ -28,7 +28,7 @@
                 </#if>
             </div>
             <div class="col-md-4 text-right">
-                <p class="text-muted credit"><a href="https://github.com/DeemOpen/zkui/issues" target="_blank">Bugs</a></p>
+                <p class="text-muted credit"><a href="https://github.com/zhoushineyoung/zookeeper-edit/issues" target="_blank">Bugs</a></p>
             </div>
         </div>
     </div>
