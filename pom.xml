@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.deem</groupId>
+	<groupId>com.martin</groupId>
 	<artifactId>zookeeper-edit</artifactId>
-	<version>2.0-SNAPSHOT</version>
+	<version>v0.1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>zookeeper-edit</name>
