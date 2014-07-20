@@ -1,18 +1,16 @@
 <!--
 #
-# Copyright (c) 2014, Deem Inc. All Rights Reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-# http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+# Copyright (c) 2014 zhoushineyoung. All Rights Reserved.
+# 
+# Licensed under the The MIT License (MIT); 
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
 #
 -->
 <!-- Menu Bar -->
@@ -33,13 +31,10 @@
                 <li><a href="#" data-toggle="modal" data-target="#addNodeModal">Add Node</a></li>
                 <li><a href="#" data-toggle="modal" data-target="#addPropertyModal" id="addPropertyBtn">Add Property</a></li>
                 <li><a href="#" data-toggle="modal" data-target="#deleteModal">Delete</a></li>
-                <li><a href="#" data-toggle="modal" data-target="#importModal">Import</a></li>
                 </#if> 
 
-                <li><a href="/export?zkPath=${displayPath}" target="_blank">Export</a></li>
                 <li><a href="#" data-toggle="modal" data-target="#searchModal">Search</a></li>
                 <li><a href="/history">History</a></li>
-                <li><a href="/monitor">Monitor</a></li>
 
                 <#else>
                 <li><a href="/">Root</a></li>
