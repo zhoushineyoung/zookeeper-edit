@@ -13,7 +13,7 @@
  * SOFTWARE.
  *
  */
-package com.deem.zkui;
+package com.martin.zkedit;
 
 import static org.junit.Assert.*;
 

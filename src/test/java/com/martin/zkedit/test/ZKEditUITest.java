@@ -13,9 +13,9 @@
  * SOFTWARE.
  *
  */
-package com.deem.zkui.test;
+package com.martin.zkedit.test;
 
-public class ZKUITest {
+public class ZKEditUITest {
 
     public static void main(String[] args) {
         System.out.println("Testing!");
