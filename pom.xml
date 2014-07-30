@@ -4,7 +4,7 @@
 
 	<groupId>com.martin</groupId>
 	<artifactId>zookeeper-edit</artifactId>
-	<version>v0.1.0</version>
+	<version>V0.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>zookeeper-edit</name>
