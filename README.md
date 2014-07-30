@@ -12,7 +12,7 @@ Setup
 1. mvn clean install
 2. Copy the config.properties into the folder with the jar file. Modify it to point to the zookeeper instance/cluster. 
 3. Multiple zookeeper instances(namely zookeeper cluster members) are comma separated.  eg: server1:2181,server2:2181.
-4. Run the jar. (type "java -jar zkui-2.0-SNAPSHOT-jar-with-dependencies.jar &")
+4. Run the jar. (type "java -jar zookeeper-edit-V0.1.0-jar-with-dependencies.jar &")
 5. <a href="http://localhost:9090">http://localhost:9090</a> 
 
 Login Info
