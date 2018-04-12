@@ -1,7 +1,7 @@
 zookeeper-edit
 ==============
 
-Zookeeper Edit UI, A OpenSource Web Face Based JavaEE Tech 4 Zookeeper Management.
+Zookeeper Edit UI / ZK UI / ZKUI, A OpenSource Web Face Based JavaEE Tech 4 Zookeeper Management.
 
 Requirements
 ==============
